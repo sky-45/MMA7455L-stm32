@@ -1,0 +1,9 @@
+MMA7455.c:21:6:MMA7455_Init_8G	8	static
+MMA7455.c:42:8:MMA7455_Read_8Bit_X	16	static
+MMA7455.c:54:8:MMA7455_Read_8Bit_Y	16	static
+MMA7455.c:65:8:MMA7455_Read_8Bit_Z	16	static
+MMA7455.c:78:9:MMA7455_Read_10Bit_X	16	static
+MMA7455.c:101:9:MMA7455_Read_10Bit_Y	16	static
+MMA7455.c:122:9:MMA7455_Read_10Bit_Z	16	static
+MMA7455.c:153:7:MMA7455_Read_Pitch	40	static
+MMA7455.c:171:7:MMA7455_Read_Roll	40	static
